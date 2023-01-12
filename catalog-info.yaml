@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: net
+  annotations:
+    github.com/project-slug: AlineGit/net
+spec:
+  type: other
+  lifecycle: unknown
+  owner: aline
