@@ -4,6 +4,7 @@ metadata:
   name: net
   annotations:
     github.com/project-slug: AlineGit/net
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
